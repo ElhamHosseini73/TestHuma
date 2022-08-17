@@ -1,2 +1,7 @@
+print(" Add code in main in printName1")
+print(" Add code in main in printName2")
+print(" Add code in main in printName3")
 print(" print Name")
-print(" Add code in main in printName")
+print(" Add code in main in printName1")
+print(" Add code in main in printName2")
+print(" Add code in main in printName3")
